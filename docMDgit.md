@@ -1,4 +1,4 @@
-# Création de dépôt git avec WSL2 
+# <span style="color:orange;">Création de dépôt Git avec WSL2 </span>
 <br>
 
  ### 1 . Installer Git
@@ -8,7 +8,11 @@
 
 <br>
 
- ### 2 . Fichier de configuration Git
+### 2 . <span style="color:orange;">Créer</span> un dossier 
+
+<br>
+
+ ### 3 . Fichier de configuration Git
 <br>
 
   >`git config --global user.name "Votre nom"`
@@ -17,10 +21,35 @@
 
 <br>
 
- ### 3 . Création d'un dossier Git vide
+ ### 4 . Création d'un dossier Git 
 <br>
  
   >`git init`
 
 <br>
+
+ ### 5 . Ajouter les fichiers du dossier courant pour les commit par la suite 
+
+<br>
+ 
+  >`git add. `
+
+<br>
+
+ ### 6 . Préparer les fichiers à l'envoi et mettre un message  
+
+<br>
+ 
+  >`git commit `
+
+<br>
+
+ ### 7 . Envoyer les fichiers/dossiers sur GitHub 
+
+<br>
+ 
+  >`git push`
+
+<br>
+
  
